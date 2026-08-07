@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 468 128" width="468" height="128">
+<defs>
+<linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="118">
+<stop offset="0" stop-color="#FFF8DC"></stop><stop offset="0.2" stop-color="#F7E08A"></stop><stop offset="0.44" stop-color="#EBBE45"></stop><stop offset="0.6" stop-color="#C68C1F"></stop><stop offset="0.78" stop-color="#F2D66E"></stop><stop offset="1" stop-color="#FFF6DA"></stop></linearGradient>
+<linearGradient id="gl" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="118">
+<stop offset="0" stop-color="#fff" stop-opacity="0.6"></stop><stop offset="0.24" stop-color="#fff" stop-opacity="0.14"></stop><stop offset="0.4" stop-color="#fff" stop-opacity="0"></stop><stop offset="0.84" stop-color="#fff" stop-opacity="0"></stop><stop offset="1" stop-color="#fff" stop-opacity="0.32"></stop></linearGradient>
+<filter id="sh" x="-12%" y="-22%" width="126%" height="150%"><feDropShadow dx="0" dy="3" stdDeviation="2.4" flood-color="#3B2606" flood-opacity="0.45"></feDropShadow></filter>
+</defs>
+<g filter="url(#sh)" transform="translate(9,0) skewX(-9)">
+<g transform="translate(14,5)"><path d="M0,0 H30 L55,40 L80,0 H110 L70,59 L110,118 H80 L55,78 L30,118 H0 L40,59 Z" fill="url(#g)" stroke="#6B4712" stroke-width="5" stroke-linejoin="round"></path><path d="M0,0 H30 L55,40 L80,0 H110 L70,59 L110,118 H80 L55,78 L30,118 H0 L40,59 Z" fill="url(#gl)"></path></g><g transform="translate(142,5)"><path d="M0,0 H96 V22 L56,118 H20 L60,26 H0 Z" fill="url(#g)" stroke="#6B4712" stroke-width="5" stroke-linejoin="round"></path><path d="M0,0 H96 V22 L56,118 H20 L60,26 H0 Z" fill="url(#gl)"></path></g><g transform="translate(250,5)"><path d="M0,0 H96 V22 L56,118 H20 L60,26 H0 Z" fill="url(#g)" stroke="#6B4712" stroke-width="5" stroke-linejoin="round"></path><path d="M0,0 H96 V22 L56,118 H20 L60,26 H0 Z" fill="url(#gl)"></path></g><g transform="translate(358,5)"><path d="M0,0 H96 V22 L56,118 H20 L60,26 H0 Z" fill="url(#g)" stroke="#6B4712" stroke-width="5" stroke-linejoin="round"></path><path d="M0,0 H96 V22 L56,118 H20 L60,26 H0 Z" fill="url(#gl)"></path></g>
+</g></svg>
