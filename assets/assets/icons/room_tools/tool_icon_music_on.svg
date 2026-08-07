@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 78 74" width="78" height="74">
+<defs><filter id="sh" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="1.5" stdDeviation="1.6" flood-color="#000" flood-opacity="0.3"></feDropShadow></filter>
+<mask id="m" maskUnits="userSpaceOnUse" x="0" y="0" width="78" height="74">
+<rect width="78" height="74" fill="#fff"></rect><circle cx="26" cy="48" r="5"></circle>
+<circle cx="26" cy="48" r="17" fill="none" stroke="#000" stroke-width="1.8"></circle></mask></defs>
+<g filter="url(#sh)">
+<circle cx="26" cy="48" r="22" fill="#FFFCF3" mask="url(#m)"></circle>
+<circle cx="26" cy="48" r="11.2" fill="none" stroke="#F4CE3F" stroke-width="3.4"></circle>
+<rect x="43.5" y="10" width="6.5" height="40" rx="3.25" fill="#FFFCF3"></rect>
+<path d="M50,9 C62.5,11.5 69,18 68.5,28 C67,20.5 60,17.5 50,19 Z" fill="#FFFCF3" stroke="#FFFCF3" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round"></path>
+</g></svg>

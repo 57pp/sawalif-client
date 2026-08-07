@@ -1,0 +1,36 @@
+<svg width="430" height="718" viewBox="0 0 430 718" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_370_21117)">
+<circle cx="442" cy="286" r="86" fill="#28FF28" fill-opacity="0.5"/>
+</g>
+<g filter="url(#filter1_f_370_21117)">
+<circle cx="24" cy="286" r="86" fill="#5500FF" fill-opacity="0.5"/>
+</g>
+<g filter="url(#filter2_f_370_21117)">
+<circle cx="437" cy="472" r="86" fill="#FF00EE" fill-opacity="0.5"/>
+</g>
+<g filter="url(#filter3_f_370_21117)">
+<circle cx="16" cy="496" r="86" fill="#FF0000" fill-opacity="0.5"/>
+</g>
+<defs>
+<filter id="filter0_f_370_21117" x="156" y="0" width="572" height="572" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="100" result="effect1_foregroundBlur_370_21117"/>
+</filter>
+<filter id="filter1_f_370_21117" x="-262" y="0" width="572" height="572" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="100" result="effect1_foregroundBlur_370_21117"/>
+</filter>
+<filter id="filter2_f_370_21117" x="151" y="186" width="572" height="572" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="100" result="effect1_foregroundBlur_370_21117"/>
+</filter>
+<filter id="filter3_f_370_21117" x="-270" y="210" width="572" height="572" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="100" result="effect1_foregroundBlur_370_21117"/>
+</filter>
+</defs>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 68" width="72" height="68">
+<defs><filter id="sh" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="1.5" stdDeviation="1.6" flood-color="#000" flood-opacity="0.3"></feDropShadow></filter>
+<mask id="mb" maskUnits="userSpaceOnUse" x="0" y="0" width="72" height="68">
+<rect width="72" height="68" fill="#fff"></rect><circle cx="58" cy="13" r="15"></circle></mask>
+<mask id="mx" maskUnits="userSpaceOnUse" x="0" y="0" width="72" height="68">
+<rect width="72" height="68" fill="#fff"></rect>
+<rect x="52.4" y="11.4" width="11.2" height="3.2" rx="1.6" transform="rotate(45 58 13)"></rect>
+<rect x="52.4" y="11.4" width="11.2" height="3.2" rx="1.6" transform="rotate(-45 58 13)"></rect></mask></defs>
+<g filter="url(#sh)">
+<g mask="url(#mb)">
+<path d="M15,10 h28 a12,12 0 0 1 12,12 v13 a12,12 0 0 1 -12,12 h-17 l-11,10.5 v-10.8 a12,12 0 0 1 -11,-11.7 v-13 a12,12 0 0 1 11,-12 Z" fill="none" stroke="#FFFCF3" stroke-width="4.6" stroke-linejoin="round"></path>
+<rect x="14" y="19" width="32" height="4" rx="2" fill="#FFFCF3"></rect>
+<rect x="14" y="27.5" width="23" height="4" rx="2" fill="#FFFCF3" opacity="0.6"></rect>
+<rect x="14" y="36" width="13" height="4" rx="2" fill="#FFFCF3" opacity="0.3"></rect>
+</g>
+<circle cx="58" cy="13" r="11.5" fill="#F4CE3F" mask="url(#mx)"></circle>
+</g></svg>

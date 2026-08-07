@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40">
+<defs>
+<clipPath id="c"><circle cx="20" cy="20" r="19.2"></circle></clipPath>
+<linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3B63D8"></stop><stop offset="1" stop-color="#13205C"></stop></linearGradient>
+<linearGradient id="r" x1="1" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F0655C"></stop><stop offset="1" stop-color="#8E1246"></stop></linearGradient>
+<linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFF4CB"></stop><stop offset="0.5" stop-color="#F4CE3F"></stop><stop offset="1" stop-color="#C08A18"></stop></linearGradient></defs>
+<g clip-path="url(#c)">
+<path d="M0,0 H25 L13,40 H0 Z" fill="url(#b)"></path>
+<path d="M25,0 H40 V40 H13 Z" fill="url(#r)"></path>
+<circle cx="13" cy="8" r="14" fill="#fff" opacity="0.12"></circle>
+</g>
+<path d="M23.2,1.5 L11.6,19.2 h6.2 L15.9,38.5 L28.6,20 h-6.6 Z" fill="url(#g)" stroke="#241608" stroke-opacity="0.45" stroke-width="1"></path>
+<circle cx="20" cy="20" r="19.1" fill="none" stroke="#fff" stroke-opacity="0.28" stroke-width="1.6"></circle></svg>

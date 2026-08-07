@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 79 74" width="79" height="74">
+<defs><filter id="sh" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="1.5" stdDeviation="1.6" flood-color="#000" flood-opacity="0.3"></feDropShadow></filter>
+<mask id="m" maskUnits="userSpaceOnUse" x="0" y="0" width="79" height="74">
+<rect width="79" height="74" fill="#fff"></rect>
+<rect x="33.5" y="11" width="12" height="2.8" rx="1.4"></rect>
+<rect x="33.5" y="18" width="12" height="2.8" rx="1.4"></rect>
+<rect x="33.5" y="25" width="12" height="2.8" rx="1.4"></rect>
+</mask></defs>
+<g filter="url(#sh)">
+<rect x="30" y="3" width="19" height="36" rx="9.5" fill="#FFFCF3" mask="url(#m)"></rect>
+<path d="M12.5,27 v3 A27,27 0 0 0 66.5,30 V27" fill="none" stroke="#FFFCF3" stroke-width="6" stroke-linecap="round"></path>
+<rect x="36" y="52" width="7" height="12" rx="3.5" fill="#FFFCF3"></rect>
+<rect x="17" y="63" width="45" height="7" rx="3.5" fill="#FFFCF3" opacity="0.72"></rect>
+</g></svg>
